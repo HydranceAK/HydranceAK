@@ -2,10 +2,6 @@ HEATSINK:
 
 	https://www.aliexpress.com/item/1005004514579173.html?spm=a2g0o.order_list.order_list_main.17.485a1802Air7T2
 
-MAGNETS:
-
-	https://www.aliexpress.com/item/1005005480687121.html?spm=a2g0o.order_list.order_list_main.11.485a1802Air7T2
-
 FANS: 
 
 	https://www.aliexpress.com/item/1005003639796150.html?spm=a2g0o.order_list.order_list_main.29.485a1802Air7T2
@@ -21,7 +17,7 @@ REAL CREE XHP70.2 LEDS (optional)
 	https://www.mouser.ca/new/cree/cree-xlamp-xhp70-2/
 
 BUTTON:
-	Get the latching one. Color is optional	
+	Get the 12mm latching one. Color is optional	
 
 	https://www.aliexpress.com/item/1005006953954542.html?spm=a2g0o.order_list.order_list_main.47.485a1802Air7T2
 
